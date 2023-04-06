@@ -1,0 +1,20 @@
+p {
+    font-size: 24px;
+}
+
+.mysection {
+    background-color: blue;
+}
+
+
+#box {
+    background-color: yellow;
+    color: purple;
+    width: 600px;
+    height: 300px;
+    font-weight: 900;
+    font-size: 40px;
+    font-style: italic;
+    text-transform: uppercase;
+    text-align: center;
+}
